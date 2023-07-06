@@ -30,6 +30,6 @@ based on https://github.com/DogeLord081/OneReality/tree/main and https://github.
 This was only tested on Mac os, but i think it should run on windows.
 
 # Credits
-https://www.youtube.com/watch?v=dKFnJCtcfMk
-https://github.com/DogeLord081/OneReality/tree/main
+https://www.youtube.com/watch?v=dKFnJCtcfMk <br>
+https://github.com/DogeLord081/OneReality/tree/main <br>
 https://github.com/AlizerUncaged/desktop-waifu
