@@ -1,5 +1,5 @@
 # AI-Chatbot
-You can talk to it and it will talk back
+You can talk to it and it will talk back <br>
 based on https://github.com/DogeLord081/OneReality/tree/main and https://github.com/AlizerUncaged/desktop-waifu
 
 # Requirements
@@ -26,7 +26,7 @@ based on https://github.com/DogeLord081/OneReality/tree/main and https://github.
 - run it
 
 # Notes
-**I did NOT make this because i was lonely, it was for research purposes :)**
+**I did NOT make this because i was lonely, it was for research purposes :)** <br>
 This was only tested on Mac os, but i think it should run on windows.
 
 # Credits
