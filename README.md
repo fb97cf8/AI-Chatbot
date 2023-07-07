@@ -1,6 +1,5 @@
 # AI-Chatbot
 You can talk to it and it will talk back <br>
-based on https://github.com/DogeLord081/OneReality/tree/main and https://github.com/AlizerUncaged/desktop-waifu
 
 # Requirements
 - Open ai api key (see pricing: https://openai.com/pricing)
