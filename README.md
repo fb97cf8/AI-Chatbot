@@ -3,7 +3,7 @@ You can talk to it and it will talk back <br>
 based on https://github.com/DogeLord081/OneReality/tree/main and https://github.com/AlizerUncaged/desktop-waifu
 
 # Requirements
-- Open ai api key (see pricing [here]([url](https://openai.com/pricing)https://openai.com/pricing))
+- Open ai api key (see pricing: https://openai.com/pricing)
 - openai module
 - pyttsx3 module
 - speech_recognition module
