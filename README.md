@@ -8,7 +8,7 @@ You can talk to it and it will talk back <br>
 - speech_recognition module
 - goodtrans module
 
-**for megumin version (includes other requirements):**
+**For megumin version (includes other requirements):**
   - cv2 module
 
 # Instructions (Megumin version)
