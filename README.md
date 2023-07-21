@@ -26,7 +26,7 @@ You can talk to it and it will talk back <br>
 
 # Notes
 **I did NOT make this because i was lonely, it was for research purposes :)** <br>
-This was only tested on Mac os, but i think it should run on windows.
+This was only tested on Mac os, but I think it should run on windows.
 
 # Credits
 https://www.youtube.com/watch?v=dKFnJCtcfMk <br>
