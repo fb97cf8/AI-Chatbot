@@ -12,17 +12,18 @@ You can talk to it and it will talk back <br>
   - cv2 module
 
 # Instructions (Megumin version)
-- download all files in megumin folder
+- Download all files in Megumin AI folder
 - leave all in same directory
 - install requirements
-- run window.py inside of the megumin movement folder
-- resize it and place whereever you want
-- run megumin.py and you can speak to it
+- Download all files inside of meguminmovement folder
+- run window.py inside of that folder
+- resize the window that appears and place where ever you want
+- run megumin-3.5turbo.py and you can speak to it (inside console)
 
 # Instructions (normal version)
-- download normal.py
+- download Normal AI folder
 - install requirements
-- run it
+- run normal text activate.py inside of Normal AI folder
 
 # Notes
 **I did NOT make this because i was lonely, it was for research purposes :)** <br>
